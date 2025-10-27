@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "surname": "Johnson",
+      "email": "alice.johnson@example.com",
+      "issuedBook": "The Great Gatsby",
+      "issuedDate": "2025-09-02",
+      "returnDate": "2025-09-16",
+      "suscriptionType": "monthly",
+      "suscriptionDate": "2025-01-10"
+    },
+    {
+      "id": 2,
+      "name": "Ben",
+      "surname": "Smith",
+      "email": "ben.smith@example.com",
+      "issuedBook": null,
+      "issuedDate": null,
+      "returnDate": null,
+      "suscriptionType": "annual",
+      "suscriptionDate": "2024-03-22"
+    },
+    {
+      "id": 3,
+      "name": "Cara",
+      "surname": "Lee",
+      "email": "cara.lee@example.com",
+      "issuedBook": "1984",
+      "issuedDate": "2025-10-01",
+      "returnDate": null,
+      "suscriptionType": "trial",
+      "suscriptionDate": "2025-10-01"
+    }
+    ,
+    {
+      "id": 4,
+      "name": "David",
+      "surname": "Nguyen",
+      "email": "david.nguyen@example.com",
+      "issuedBook": "To Kill a Mockingbird",
+      "issuedDate": "2025-08-15",
+      "returnDate": "2025-08-29",
+      "suscriptionType": "monthly",
+      "suscriptionDate": "2025-02-20"
+    }
+  ]
+}
