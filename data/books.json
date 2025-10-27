@@ -21,5 +21,13 @@
          "price": 9.99,
          "year": 1949
       }
+      ,
+      {
+         "id": 4,
+         "title": "Pride and Prejudice",
+         "author": "Jane Austen",
+         "price": 7.99,
+         "year": 1813
+      }
    ]
 }
