@@ -1,33 +1,32 @@
 {
-   "books": [
-      {
-         "id": 1,
-         "title": "The Great Gatsby",
-         "author": "F. Scott Fitzgerald",
-         "price": 10.99,
-         "year": 1925
-      },
-      {
-         "id": 2,
-         "title": "To Kill a Mockingbird",
-         "author": "Harper Lee",
-         "price": 8.99,
-         "year": 1960
-      },
-      {
-         "id": 3,
-         "title": "1984",
-         "author": "George Orwell",
-         "price": 9.99,
-         "year": 1949
-      }
-      ,
-      {
-         "id": 4,
-         "title": "Pride and Prejudice",
-         "author": "Jane Austen",
-         "price": 7.99,
-         "year": 1813
-      }
-   ]
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": "10.99",
+      "year": "1925"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": "8.99",
+      "year": "1960"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": "9.99",
+      "year": "1949"
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": "7.99",
+      "year": "1813"
+    }
+  ]
 }
